@@ -478,6 +478,7 @@ Reflexão crítica	Limites, vieses ou erros identificados no uso da IA nessa eta
 
 Se o grupo não usou nenhuma ferramenta de IA em alguma dessas etapas, declare isso explicitamente.
 Uso de IA observado e não declarado será penalizado.
+Solicitei o auxílio do ChatGPT para desenvolver e organizar o trabalho, buscando orientações sobre sua estrutura, formatação e descrição das informações do projeto. A ferramenta foi utilizada como apoio para melhorar a clareza e a organização do conteúdo, mantendo as informações e decisões do trabalho desenvolvidas pelo grupo.
 ________________________________________
 7. Apresentação Corporativa Final
 (pitch cronometrado de 8 minutos — vale 15%, maior peso individual da Dimensão Procedimental)
