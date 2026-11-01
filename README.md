@@ -13,7 +13,9 @@ O Relatório Técnico Final deve ser o próprio README.md da raiz da branch main
 Integrantes
 Nome completo do aluno	RGM	Usuário do GitHub
 Nome	                      RGM        	usuario
-Ryan Vitor Barbosa Santos-  49307509    
+Ryan Vitor Barbosa Santos-  49307509    ryanvitor182030-a11y
+
+
 
 1.1 Revisão do Modelo Conceitual
 (obrigatória, sem peso próprio — mas todo o restante da entrega é construído e avaliado sobre este modelo: um erro que permanecer no DER revisado se propaga para a conversão, a normalização, o modelo lógico e o script SQL)
