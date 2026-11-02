@@ -12,8 +12,8 @@ ________________________________________
 O Relatório Técnico Final deve ser o próprio README.md da raiz da branch main, seguindo a estrutura deste esqueleto. Relatório entregue em outro arquivo (PDF, Word, outro .md, Google Docs, wiki do GitHub etc.) não será corrigido. Os demais artefatos (DER, modelo lógico, dicionário de dados, levantamento, script SQL, massa de dados, slides) ficam em arquivos separados no repositório, com link a partir do README.
 Integrantes
 Nome completo do aluno	RGM	Usuário do GitHub
-Nome	                      RGM        	usuario
-Ryan Vitor Barbosa Santos-  49307509    ryanvitor182030-a11y
+
+**Nomes dos alunos e RGM Nome: Ryan Vitor RGM: 49307509 Nome: Karyza Ribeiro RGM: 48065064 Nome: Maria Eduarda RGM: 048098035 Nome: Daniel Felipe RGM: 47576723 Nome: Vinicius Gomes RGM: 48108804 Nome: Ana Julia De Angelo RGM:46764348
 
 
 
